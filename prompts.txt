@@ -1,0 +1,37 @@
+### https://github.com/oguz81/ChatbotsCodingPerformance
+### ChatbotsCodingPerformance
+### 03.07.2025
+
+### EVALUATION AND COMPARISON OF AI CHATBOTS' CODING PERFORMANCE: HOW GOOD ARE CHATBOTS TO CODE ON TASKS FROM EASY TO COMPLEX?
+###
+### This file contains the prompts which were entered to the chabots.
+
+
+
+PROMPTS
+1) Write a Python code that calculates the determinant of given matrix in size 7x7 and 11x11. Write separate functions for both 7x7 and 11x11. 
+
+2) Write a Python code to multiplies two square matrices in sizes 7x7, 15x15 and 20x20. Write separate functions for given sizes. -alt. Write Python functions that multiply two square matrices in sizes 7x7, 15x15 and 20x20. Write separate functions for each size.
+
+3) Write matrix multiplication functions in Python to multiply 6x4 and 4x8 matrices, 12x4 and 4x16 matrices, 5x20 and 20x4 matrices.
+
+4) Write Python functions to calculate the transpose, complex conjugate and hermitian conjugates of a matrix. Write separate functions for each operation.
+
+5) Write a Python function that calculates the inverse of a square matrix.
+
+6) Write Python functions that check if a square matrix is symmetric and antisymmetric. Write separate functions for each operation. Do not use linalg.
+ 
+7) Write Python functions that check if a square matrix is hermitian and anti-hermitian. Write separate functions for each operation. Do not use linalg.
+
+8) Write Python functions that check if a square matrix is orthogonal and unitary. Write separate functions for each operation. Do not use linalg.
+
+9) Write a Python code that calculates eigenvalues and eigenvectors of 3x3 matrix. Do not use linalg.
+
+10) Write a Python code that calculates eigenvalues and eigenvectors of 7x7 matrix. Do not use linalg.
+
+11) Write a Python code that solves this differential equation using Runge-Kutta method in interval [0,1]: y'' - 3y' + 2y = 0 . h is 0.1 and initial values are y(0) = -1, y'(0) = 0 . The code should print calculated y values between [0,1] with 0.1 step size.
+
+11) Write a Python code that solves this differential equation using Adams-Bashforth-Moulton method in interval [0,1]: y'' - 3y' + 2y = 0 . h is 0.1 and initial values are y(0) = -1, y'(0) = 0 . The code should print calculated y values between [0,1] with 0.1 step size.
+
+11) Write a Python code that solves this differential equation using Milne method in interval [0,1]: y'' - 3y' + 2y = 0 . h is 0.1 and initial values are y(0) = -1, y'(0) = 0 . The code should print calculated y values between [0,1] with 0.1 step size.
+
