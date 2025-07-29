@@ -53,7 +53,7 @@ You can find the results query by query on the table below.
 
 Here is the score table:
 
-1. DeepSeek-V (19/21)
-2. ChatGPT Plus GPT-4o & GitHub Copilot GPT-4.1 Pro (18/21)
-3. Claude 3.7 Sonnet Pro Plan (17/21)
-4. Gemini Advanced 2.0 Flash (13/21)
+1. DeepSeek-V (19/21) ---> % 90.48
+2. ChatGPT Plus GPT-4o & GitHub Copilot GPT-4.1 Pro (18/21) ---> % 85.71
+3. Claude 3.7 Sonnet Pro Plan (17/21) ---> % 80.95
+4. Gemini Advanced 2.0 Flash (13/21) ---> % 61.9
