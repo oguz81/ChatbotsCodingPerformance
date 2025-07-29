@@ -1,11 +1,10 @@
 # ChatbotsCodingPerformance
 # EVALUATION AND COMPARISON OF AI CHATBOTS' CODING PERFORMANCE: HOW GOOD ARE CHATBOTS TO CODE ON TASKS FROM EASY TO COMPLEX?
 
-This is a study of comparison and evaluation of AI chatbots' coding performance. It emerged as a midterm project of "Fundamentals of Artifical Intelligence" course at Institue of Informatics, Hacettepe University. And don't worry, I have been extending this study.
-
+This is a study of comparison and evaluation of AI chatbots' coding performance. It emerged as a midterm project of "Fundamentals of Artifical Intelligence" course at Institue of Informatics, Hacettepe University.
 # Introduction
 
-I focused to compare and evaluate the coding performance of AI chatbots. There are 5 chatbots to test their performances: ChatGPT, DeepSeek, Claude, Gemini. GitHub Copilot.
+I focused to compare and evaluate the coding performance of AI chatbots. There are 5 chatbots to test their performances: ChatGPT, DeepSeek, Claude, Gemini. GitHub Copilot. I entered the prompts in English.
 
 # Chatbots
 I used five different AI chatbots:
@@ -45,6 +44,13 @@ You can find the prompts I entered to the chatbots in `prompts.txt` file.
 I did not send separate prompts for every single query. Instead, I merged same calculations into one prompt. Here is the first prompt I entered for the first two queries:
 
 <i>Write a Python code that calculates the determinant of given matrix in size 7x7 and 11x11. Write separate functions for both 7x7 and 11x11.</i>
+
+# Evaluation
+There are two conditions that the generated codes must meet:
+1. The code must run without any sytnax error.
+2. The code must give the correct answer.
+
+If a generated code meet these conditions, it is accepted that the chatbot answered the query correctly.
 
 # Results
 
