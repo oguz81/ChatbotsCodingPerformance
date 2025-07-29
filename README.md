@@ -46,4 +46,14 @@ I did not send separate prompts for every single query. Instead, I merged same c
 
 <i>Write a Python code that calculates the determinant of given matrix in size 7x7 and 11x11. Write separate functions for both 7x7 and 11x11.</i>
 
-... will be comtinued
+# Results
+
+You can find the results query by query on the table below.
+![alt text](results_table.png)
+
+Here is the score table:
+
+1. DeepSeek-V (19/21)
+2. ChatGPT Plus GPT-4o & GitHub Copilot GPT-4.1 Pro (18/21)
+3. Claude 3.7 Sonnet Pro Plan (17/21)
+4. Gemini Advanced 2.0 Flash (13/21)
