@@ -31,7 +31,7 @@ PROMPTS
 
 11) Write a Python code that solves this differential equation using Runge-Kutta method in interval [0,1]: y'' - 3y' + 2y = 0 . h is 0.1 and initial values are y(0) = -1, y'(0) = 0 . The code should print calculated y values between [0,1] with 0.1 step size.
 
-11) Write a Python code that solves this differential equation using Adams-Bashforth-Moulton method in interval [0,1]: y'' - 3y' + 2y = 0 . h is 0.1 and initial values are y(0) = -1, y'(0) = 0 . The code should print calculated y values between [0,1] with 0.1 step size.
+12) Write a Python code that solves this differential equation using Adams-Bashforth-Moulton method in interval [0,1]: y'' - 3y' + 2y = 0 . h is 0.1 and initial values are y(0) = -1, y'(0) = 0 . The code should print calculated y values between [0,1] with 0.1 step size.
 
-11) Write a Python code that solves this differential equation using Milne method in interval [0,1]: y'' - 3y' + 2y = 0 . h is 0.1 and initial values are y(0) = -1, y'(0) = 0 . The code should print calculated y values between [0,1] with 0.1 step size.
+13) Write a Python code that solves this differential equation using Milne method in interval [0,1]: y'' - 3y' + 2y = 0 . h is 0.1 and initial values are y(0) = -1, y'(0) = 0 . The code should print calculated y values between [0,1] with 0.1 step size.
 
